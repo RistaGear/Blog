@@ -1,0 +1,11 @@
+
+/* font-family:Hina*/
+@font-face {
+    font-family:Hina Mincho;
+    src: url(../fonts/Hina_Mincho/HinaMincho-Regular.ttf);
+}
+/* font-family:Kaisei*/
+@font-face {
+    font-family:Kaisei HarunoUmi;
+    src: url(../fonts/Kaisei_HarunoUmi/KaiseiHarunoUmi-Regular.ttf);
+}
